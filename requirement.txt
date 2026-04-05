@@ -1,0 +1,4 @@
+Requirement of the files to be executed
+1.  python
+2.  numpy
+3.  opencv
